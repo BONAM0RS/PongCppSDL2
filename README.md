@@ -9,4 +9,6 @@ SDL2_mixer-2.6.2
 
 SDL2_ttf-2.20.1
 
+Visual Studio 2022
+
 ![](https://imgur.com/cmKyD5a.png)
